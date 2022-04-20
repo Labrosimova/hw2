@@ -42,7 +42,7 @@ item_6_type = typeof(item_6);
 console.log(`"item_6 == " ${typeof(item_6)}, "item_6_type == " ${typeof(item_6_type)}`);
 // 22
 let item_7;
-item_7 = console.log(String(item_6)); // скорее всего тут ошибка :( 
+item_7 = String(item_6); // скорее всего тут ошибка :( 
 // 23
 let item_7_type;
 // 24
