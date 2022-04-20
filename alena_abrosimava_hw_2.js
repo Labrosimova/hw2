@@ -48,7 +48,7 @@ let item_7_type;
 // 24
 item_7_type = console.log(typeof(item_7));
 // 25
-console.log(`"item_7 == " ${typeof(item_6)}, "item_7_type == " ${typeof(item_6_type)}`); // не понимаю, как присвоить тип данных от другой переменной :(
+console.log(`"item_7 == " ${typeof(item_7)}, "item_7_type == " ${typeof(item_7_type)}`); // не понимаю, как присвоить тип данных от другой переменной :(
 // 26
 let age_1 = 10;
 //27
