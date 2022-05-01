@@ -2,7 +2,7 @@
 let age = prompt('How old are you?');
 let username;
 if (age > 18) {
-   let username = prompt (`What's your name?`);
+   username = prompt (`What's your name?`);
 } else {
     alert `Go away`
 };
