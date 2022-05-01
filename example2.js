@@ -1,7 +1,6 @@
 let age = prompt('How old are you?');
-let username;
 if (age > 18) {
-   username = prompt (`What's your name?`);
+   let username = prompt (`What's your name?`);
    if ((age > 25) && (username == `John`)) {
     alert(`Welcome, John!`);
 } else {
